@@ -79,6 +79,7 @@ body{
     border-radius: 8px;
     border: none;
     margin-bottom: 40px;
+    cursor: pointer;
 }
 .btn-primary:hover{
     background-color: blue;
@@ -187,6 +188,7 @@ body{
     color: #FFFFFF;
     text-align: center;
     border-radius: 8px;
+    cursor: pointer;
 }
 .feature-love-img .btn-primary-btn span{
     font-weight: 300;
@@ -210,6 +212,7 @@ body{
 .some-facts-icons{
     display: flex;
     justify-content: space-between;
+    cursor: pointer;
 }
 .some-facts-icons{
     padding: 0 30px 0 60px;
@@ -271,6 +274,7 @@ body{
     margin-top: 40px;
     display: flex;
     justify-content: space-between;
+    cursor: pointer;
 }
 
 .our-sponspors-icons img{
